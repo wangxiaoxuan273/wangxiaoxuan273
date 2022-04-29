@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wangxiaoxuan273
-- 👀 I’m interested in all kinds of fun programming: embedded systems, machine learning, algorithms, quantum computing, computational biology etc.
+- 👀 I’m interested in all kinds of fun programming: machine learning, algorithms, computational biology etc.
 - 🌱 I’m currently learning functional programming in Racket, Scala and Haskell :)
 - 💞️ I’m looking to collaborate on cloud services and containers.
 - 📫 How to reach me: GitHub or email wangxiaoxuan273@gmail.com
